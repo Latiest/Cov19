@@ -6,3 +6,5 @@
 
 ## 对于仿真
 一开始想用SEIR模型加上元胞自动机，找到一个netlogo的仿真软件非常好用，但是有点简陋。后来听同学说B站up有做过视频并上传源码到了github，就找到代码并进行了一些改动。
+
+![image](https://github.com/Latiest/Latiest.github.io/blob/master/images/%E6%88%AA%E5%B1%8F2020-08-03%20%E4%B8%8B%E5%8D%8810.07.45.png)
